@@ -32,8 +32,8 @@ I am a Data Scientist with a background in Computer Science and Backend Engineer
 
 ### 📊 GitHub Stats
 
-![Umer's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LadyHannelore&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LadyHannelore&layout=compact&theme=radical)
+![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LadyHannelore&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyHannelore&layout=compact&theme=radical)
 
 ---
 
