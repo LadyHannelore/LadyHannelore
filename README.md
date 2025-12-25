@@ -32,12 +32,11 @@ I am a Data Scientist with a background in Computer Science and Backend Engineer
 
 ### 📊 GitHub Stats
 
-![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerzaidi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerzaidi&layout=compact&theme=radical)
+![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LadyHannelore&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyHannelore&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suhz)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:umer_zaidi2013@hotmail.com)
-
